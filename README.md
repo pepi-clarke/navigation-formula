@@ -1,5 +1,6 @@
 # navigation-formula
-Example of great circle navigation.
+Example of great circle navigation. Shows in the console a list of waypoints in a route. The navigation formula works on waypoints and is implemented in the class GreatCircle.
+Feel free to use this as a starting point.
 
 ## Steps To Run Code
 1. Clone repository.
