@@ -6,7 +6,7 @@ Example of great circle navigation.
 1. Install node.
 1. Install Typescript.
 ```
-# Run TRype script compiler in watch mode.
+# Run Typescript compiler in watch mode.
 tsc -w
 
 # On succesful compilation run application.
