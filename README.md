@@ -11,5 +11,5 @@ Example of great circle navigation.
 tsc -w
 
 # On succesful compilation run application.
-node dist/plot
+node dist/plot.js
 ```
